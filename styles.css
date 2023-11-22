@@ -1,0 +1,54 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8; /* Add your preferred background color */
+}
+
+#main {
+  text-align: center;
+  margin: 20px;
+}
+
+#img-div {
+  margin-top: 20px;
+  background-color: #fff; /* Add your preferred background color for the image section */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for a lifted effect */
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+}
+
+#img-caption {
+  margin-top: 10px;
+  font-style: italic;
+  color: #666; /* Add your preferred caption color */
+}
+
+#tribute-info {
+  margin-top: 20px;
+  color: #333; /* Add your preferred text color for the information */
+}
+
+#title {
+  font-size: 2em;
+  color: #333; /* Add your preferred text color */
+}
+
+#tribute-link {
+  display: block;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #007bff; /* Add your preferred link color */
+}
+
+#tribute-link:hover {
+  text-decoration: underline;
+}
