@@ -2,7 +2,7 @@ body {
   font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f8f8f8; /* Add your preferred background color */
+  background-color: #f8f8f8;
 }
 
 #main {
@@ -12,10 +12,10 @@ body {
 
 #img-div {
   margin-top: 20px;
-  background-color: #fff; /* Add your preferred background color for the image section */
+  background-color: #fff;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for a lifted effect */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 #image {
@@ -29,24 +29,24 @@ body {
 #img-caption {
   margin-top: 10px;
   font-style: italic;
-  color: #666; /* Add your preferred caption color */
+  color: #666;
 }
 
 #tribute-info {
   margin-top: 20px;
-  color: #333; /* Add your preferred text color for the information */
+  color: #333;
 }
 
 #title {
   font-size: 2em;
-  color: #333; /* Add your preferred text color */
+  color: #333
 }
 
 #tribute-link {
   display: block;
   margin-top: 20px;
   text-decoration: none;
-  color: #007bff; /* Add your preferred link color */
+  color: #007bff;
 }
 
 #tribute-link:hover {
